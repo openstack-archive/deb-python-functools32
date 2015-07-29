@@ -1,5 +1,5 @@
 python-functools32 (3.2.3.2-1) unstable; urgency=medium
 
-  * Initial release. (Closes: #XXXXXX)
+  * Initial release. (Closes: #794025)
 
  -- Thomas Goirand <zigo@debian.org>  Thu, 30 Jul 2015 00:26:11 +0200
