@@ -3,8 +3,8 @@ Upstream-Name: functools32
 Source: https://github.com/MiCHiLU/python-functools32
 
 Files: debian/*
-Copyright: (c) 2014, Thomas Goirand <zigo@debian.org>
-License: Apache-2
+Copyright: (c) 2015, Thomas Goirand <zigo@debian.org>
+License: PFS-2
 
 Files: *
 Copyright: (c) Python contributors
