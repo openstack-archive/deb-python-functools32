@@ -8,8 +8,8 @@ Build-Depends: debhelper (>= 9),
                python-setuptools,
                python-all,
 Standards-Version: 3.9.6
-Vcs-Browser: http://anonscm.debian.org/gitweb/?p=openstack/python-functools32.git
-Vcs-Git: git://anonscm.debian.org/openstack/python-functools32.git
+Vcs-Browser: https://anonscm.debian.org/cgit/openstack/python-functools32.git/
+Vcs-Git: https://anonscm.debian.org/git/openstack/python-functools32.git
 Homepage: https://github.com/MiCHiLU/python-functools32
 
 Package: python-functools32

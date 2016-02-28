@@ -1,3 +1,9 @@
+python-functools32 (3.2.3.2-3) UNRELEASED; urgency=medium
+
+  * Fixed VCS URLs (https).
+
+ -- Ondřej Nový <novy@ondrej.org>  Sun, 28 Feb 2016 15:38:01 +0100
+
 python-functools32 (3.2.3.2-2) unstable; urgency=medium
 
   * Fixed debian/copyright for the debian/* part (relicense as PSF-2).
