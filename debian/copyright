@@ -32,7 +32,7 @@ License: PSF-2
  incorporates Python or any part thereof, and wants to make the derivative work
  available to others as provided herein, then Licensee hereby agrees to include
  in any such work a brief summary of the changes made to Python.
-
+ .
  4. PSF is making Python available to Licensee on an "AS IS" basis. PSF MAKES
  NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED.  BY WAY OF EXAMPLE, BUT
  NOT LIMITATION, PSF MAKES NO AND DISCLAIMS ANY REPRESENTATION OR WARRANTY OF
@@ -46,7 +46,7 @@ License: PSF-2
  .
  6. This License Agreement will automatically terminate upon a material breach
  of its terms and conditions.
-
+ .
  7. Nothing in this License Agreement shall be deemed to create any
  relationship of agency, partnership, or joint venture between PSF and
  Licensee.  This License Agreement does not grant permission to use PSF
