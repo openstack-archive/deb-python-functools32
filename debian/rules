@@ -2,7 +2,7 @@
 
 PYTHONS:=$(shell pyversions -vr)
 
-UPSTREAM_GIT = git://github.com/MiCHiLU/python-functools32.git
+UPSTREAM_GIT := https://github.com/MiCHiLU/python-functools32.git
 -include /usr/share/openstack-pkg-tools/pkgos.make
 
 %:
